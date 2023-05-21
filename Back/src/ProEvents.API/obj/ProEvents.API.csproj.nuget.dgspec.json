@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj": {}
+    "C:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj": {
+    "C:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
+        "projectUniqueName": "C:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
         "projectName": "ProEvents.API",
-        "projectPath": "c:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
+        "projectPath": "C:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
         "packagesPath": "C:\\Users\\Prof.Allan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\obj\\",
+        "outputPath": "C:\\Users\\Prof.Allan\\Documents\\ProEvents\\Back\\src\\ProEvents.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
