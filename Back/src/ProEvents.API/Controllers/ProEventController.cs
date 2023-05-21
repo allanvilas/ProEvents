@@ -42,6 +42,12 @@ namespace ProEvents.API.Controllers
             return _Event;
         }
 
+        [HttpGet("{id}")]
+        public IEnumerable<Event> GetById(int id)
+        {
+            return _Event.Where(Event => Event.EventId == id);
+        }
+
         [HttpPost]
         public string Post()
         {
