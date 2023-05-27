@@ -10,3 +10,5 @@
 - Configure / Create Event
 - Delete Event
 - Share Event
+- Create User
+- Change user information
